@@ -1,4 +1,3 @@
-# projetoSoftwareBasico-TradutorDeLinguagemSimplesParaAssembly
 # Universidade Federal de Goiás
 # Instituto de Informática
 # Curso: Ciência da Computação
